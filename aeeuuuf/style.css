@@ -1,0 +1,58 @@
+body{
+    background-color: hsl(214 37% 4%);
+    background-image: url(pattern-backdrop.svg) ;
+}
+.yvela{
+    display: flex;
+    gap: 400px;
+}
+.dzan{
+    color: hsl(211 14% 50%);
+}
+.didi{
+    color:white ;
+    font-size: 100px;
+}
+.opaa{
+    width: 500px;
+}
+.unun{
+    color:  hsl(210 18% 42%);
+}
+.shvili{
+    height: 200px;
+    padding-left: 100px;
+}
+.imaa img{
+    padding-top: 100px;
+}
+.gverdo{
+    display: flex;
+    gap: 100px;
+}
+.tetri{
+    color: white;
+}
+.aba{
+    width: 400px;
+    height: 40px;
+    background-color: black;
+    border-color: white;
+}
+.pa{
+    color: white;
+    font-size: 13px;
+}
+.meore{
+    background-color: hsl(211 30% 13%);
+    width:480px ;
+    height: 600px;
+}
+.mesame{
+    padding-top: 300px;
+    
+}
+.dedadivi{
+    display: flex;
+    gap: 200px;
+}
